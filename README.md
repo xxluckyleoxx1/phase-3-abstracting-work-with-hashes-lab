@@ -41,7 +41,6 @@ directory of this lab.
     => {"age"=>39}
    ```
 
-
 2. Create a method called `read_from_hash` that takes in two parameters. The first
    parameter is a hash, the second is a key. Used together, they will either
    produce a value on that hash corresponding to the key, or `nil` by default.
@@ -55,7 +54,6 @@ directory of this lab.
    2.6.1 :015 > read_from_hash(hash_to_read, :occupation)
     => "Student"
    ```
-
 
 3. Create a method called `update_counting_hash` that takes in two parameters.
    Similar to the last method, the first parameter is a hash, and the second is
