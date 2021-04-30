@@ -1,10 +1,10 @@
-# Intro to Hashes Lab
+# Working with Hashes Lab
 
 ## Learning Goals
 
-- Build simple hashes.
-- Access and modify data stored in a hash.
-- Add new data to a hash.
+- Build simple hashes
+- Access and modify data stored in a hash
+- Add new data to a hash
 
 ## Introduction
 
